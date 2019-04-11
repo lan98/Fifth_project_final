@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fifth_project</string>
+    <string name="btn_dollar_lable">Dollar</string>
+    <string name="rmb_hint">Input RMB</string>
+    <string name="btn_euro_lable">Euro</string>
+    <string name="btn_won_lable">Won</string>
+    <string name="btn_opencfg_lable">Config</string>
+    <string name="btn_save_lable">Save</string>
+    <string name="menu_set_lable">setting</string>
+</resources>
