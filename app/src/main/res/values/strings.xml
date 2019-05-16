@@ -7,4 +7,10 @@
     <string name="btn_opencfg_lable">Config</string>
     <string name="btn_save_lable">Save</string>
     <string name="menu_set_lable">setting</string>
+    <string name="lable_add3">+3 point</string>
+    <string name="lable_add21">+2 point</string>
+    <string name="lable_add1">+1 point</string>
+    <string name="btn_reset_lable">Reset</string>
+    <string name="lable_newActivity">the_other_Activity</string>
+    <string name="lable_open_list">Openlist</string>
 </resources>
